@@ -734,6 +734,13 @@ font-size: 18px !important;
 	background: url(../img/amazonwedding1.png) no-repeat center center;
 	padding: 42.5px 22px;
 	}
+    
+    .backdrop #registry #williams-sonoma1 a {
+    width: 196px;
+	height: 15px;
+	background: url(../img/honeyfund.png) no-repeat center center;
+	padding: 42.5px 22px;
+	}
 	
 .backdrop #registry div a {
 	text-indent: -9999px;
