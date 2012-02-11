@@ -593,7 +593,7 @@ header #nav #emblem {
 	}
 
 #lodging .hotels #holiday {
-	background: url(../img/brisas.png) no-repeat center center;
+	background: url(../img/villa.png) no-repeat center center;
 	width: 84px;
 	height: 60px;
 	display: block;
@@ -829,7 +829,7 @@ font-size: 18px !important;
     border-radius: 3px;
     border: 1px solid #d6d6d1;
     width: 400px;
-    height: 500px;	
+    height: 450px;	
 	}
 	
 #send-message form #submit-button {
